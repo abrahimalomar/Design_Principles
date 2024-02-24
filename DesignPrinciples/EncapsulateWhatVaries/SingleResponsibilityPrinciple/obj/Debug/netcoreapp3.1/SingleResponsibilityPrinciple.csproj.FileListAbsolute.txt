@@ -1,0 +1,14 @@
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.exe
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.deps.json
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.runtimeconfig.dev.json
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.dll
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.pdb
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.dll
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.pdb
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.genruntimeconfig.cache
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.csproj.AssemblyReference.cache

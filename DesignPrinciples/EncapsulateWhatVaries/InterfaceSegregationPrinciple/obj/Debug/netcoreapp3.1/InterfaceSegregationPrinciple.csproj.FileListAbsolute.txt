@@ -1,0 +1,13 @@
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.AssemblyInfo.cs
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.exe
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.deps.json
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.runtimeconfig.json
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.runtimeconfig.dev.json
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.dll
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.pdb
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.dll
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.pdb
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.genruntimeconfig.cache

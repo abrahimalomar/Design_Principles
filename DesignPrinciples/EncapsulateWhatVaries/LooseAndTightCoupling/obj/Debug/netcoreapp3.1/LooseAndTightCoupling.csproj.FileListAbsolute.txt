@@ -1,0 +1,13 @@
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LooseAndTightCoupling\bin\Debug\netcoreapp3.1\LooseAndTightCoupling.exe
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LooseAndTightCoupling\bin\Debug\netcoreapp3.1\LooseAndTightCoupling.deps.json
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LooseAndTightCoupling\bin\Debug\netcoreapp3.1\LooseAndTightCoupling.runtimeconfig.json
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LooseAndTightCoupling\bin\Debug\netcoreapp3.1\LooseAndTightCoupling.runtimeconfig.dev.json
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LooseAndTightCoupling\bin\Debug\netcoreapp3.1\LooseAndTightCoupling.dll
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LooseAndTightCoupling\bin\Debug\netcoreapp3.1\LooseAndTightCoupling.pdb
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LooseAndTightCoupling\obj\Debug\netcoreapp3.1\LooseAndTightCoupling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LooseAndTightCoupling\obj\Debug\netcoreapp3.1\LooseAndTightCoupling.AssemblyInfoInputs.cache
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LooseAndTightCoupling\obj\Debug\netcoreapp3.1\LooseAndTightCoupling.AssemblyInfo.cs
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LooseAndTightCoupling\obj\Debug\netcoreapp3.1\LooseAndTightCoupling.csproj.CoreCompileInputs.cache
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LooseAndTightCoupling\obj\Debug\netcoreapp3.1\LooseAndTightCoupling.dll
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LooseAndTightCoupling\obj\Debug\netcoreapp3.1\LooseAndTightCoupling.pdb
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LooseAndTightCoupling\obj\Debug\netcoreapp3.1\LooseAndTightCoupling.genruntimeconfig.cache

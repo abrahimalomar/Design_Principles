@@ -1,0 +1,13 @@
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.exe
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.deps.json
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.runtimeconfig.json
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.runtimeconfig.dev.json
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.dll
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.pdb
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.AssemblyInfoInputs.cache
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.AssemblyInfo.cs
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.csproj.CoreCompileInputs.cache
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.dll
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.pdb
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.genruntimeconfig.cache

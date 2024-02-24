@@ -1,0 +1,13 @@
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\DependencyInversionPrinciple\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.exe
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\DependencyInversionPrinciple\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.deps.json
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\DependencyInversionPrinciple\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.runtimeconfig.json
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\DependencyInversionPrinciple\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.runtimeconfig.dev.json
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\DependencyInversionPrinciple\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.dll
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\DependencyInversionPrinciple\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.pdb
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\DependencyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\DependencyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\DependencyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\DependencyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\DependencyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.dll
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\DependencyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.pdb
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\DependencyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.genruntimeconfig.cache

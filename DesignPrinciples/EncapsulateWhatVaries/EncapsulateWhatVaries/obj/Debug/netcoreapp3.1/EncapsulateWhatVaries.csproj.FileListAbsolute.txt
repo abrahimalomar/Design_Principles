@@ -1,0 +1,13 @@
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\EncapsulateWhatVaries\bin\Debug\netcoreapp3.1\EncapsulateWhatVaries.exe
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\EncapsulateWhatVaries\bin\Debug\netcoreapp3.1\EncapsulateWhatVaries.deps.json
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\EncapsulateWhatVaries\bin\Debug\netcoreapp3.1\EncapsulateWhatVaries.runtimeconfig.json
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\EncapsulateWhatVaries\bin\Debug\netcoreapp3.1\EncapsulateWhatVaries.runtimeconfig.dev.json
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\EncapsulateWhatVaries\bin\Debug\netcoreapp3.1\EncapsulateWhatVaries.dll
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\EncapsulateWhatVaries\bin\Debug\netcoreapp3.1\EncapsulateWhatVaries.pdb
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\netcoreapp3.1\EncapsulateWhatVaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\netcoreapp3.1\EncapsulateWhatVaries.AssemblyInfoInputs.cache
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\netcoreapp3.1\EncapsulateWhatVaries.AssemblyInfo.cs
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\netcoreapp3.1\EncapsulateWhatVaries.csproj.CoreCompileInputs.cache
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\netcoreapp3.1\EncapsulateWhatVaries.dll
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\netcoreapp3.1\EncapsulateWhatVaries.pdb
+C:\Users\30698\source\DesignPrinciples\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\netcoreapp3.1\EncapsulateWhatVaries.genruntimeconfig.cache
